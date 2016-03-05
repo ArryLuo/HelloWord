@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWord</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">退出！</string>
+	<string name="btn_start_activity_b">启动activity_b</string>
+	<string name="this_text_activity_b">这个是activity_b</string>
+</resources>
